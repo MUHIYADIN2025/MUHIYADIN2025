@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I'm Muhiadin Said Hassan, an aspiring AI Software Engineer and Machine Learning Engineer from Somalia.
+Hi, I'm Muhiadin Said Hassan, an aspiring AI Software Engineer and Machine Learning Engineer.
 
 I enjoy building intelligent software that solves real world problems using Python, Machine Learning, React, Node.js, and modern web technologies. My passion is designing AI powered applications, developing predictive models, and creating scalable software solutions.
 
