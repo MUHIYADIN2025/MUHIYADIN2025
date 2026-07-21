@@ -6,6 +6,19 @@ I enjoy building intelligent software that solves real world problems using Pyth
 
 I continuously improve my skills through hands on projects in machine learning, data science, full stack development, and cloud technologies. I believe in writing clean, maintainable code and learning new technologies every day.
 
+
+
+### Technologist My Recent Projects
+
+* [Churn Segmentation Project](https://github.com/MUHIYADIN2025/churn-segmentation-project)
+* [30 Days 30 ML Projects](https://github.com/MUHIYADIN2025/-30-Days-30-Machine-Learning-Projects-Challenges)
+* [Fraud Detection](https://github.com/MUHIYADIN2025/froud_detection)
+* [Full-Stack Vehicle Tax Verification](https://github.com/MUHIYADIN2025/full-stack-vehicle-tax-verification)
+* [DebtTrack](https://github.com/MUHIYADIN2025/Debttrack)
+* [LoanIQ](https://github.com/MUHIYADIN2025/loaniq)
+
+  
+
 🚀 Areas of Interest
 
 - Artificial Intelligence
