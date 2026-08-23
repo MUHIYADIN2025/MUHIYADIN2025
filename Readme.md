@@ -16,8 +16,7 @@ I continuously improve my skills through hands on projects in machine learning, 
 * [Full-Stack Vehicle Tax Verification](https://github.com/MUHIYADIN2025/full-stack-vehicle-tax-verification)
 * [DebtTrack](https://github.com/MUHIYADIN2025/Debttrack)
 * [LoanIQ](https://github.com/MUHIYADIN2025/loaniq)
-
-  
+* [Somalia Food Price Prediction](https://github.com/MUHIYADIN2025/Somalia-Food-Price-Prediction)
 
 🚀 Areas of Interest
 
