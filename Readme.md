@@ -17,6 +17,12 @@ I continuously improve my skills through hands on projects in machine learning, 
 * [DebtTrack](https://github.com/MUHIYADIN2025/Debttrack)
 * [LoanIQ](https://github.com/MUHIYADIN2025/loaniq)
 * [Somalia Food Price Prediction](https://github.com/MUHIYADIN2025/Somalia-Food-Price-Prediction)
+* [Model Testing Arena](https://github.com/MUHIYADIN2025/model-testing-arena)
+* [Bike Sharing Forecaster](https://github.com/MUHIYADIN2025/bike-sharing-forecaster)
+* [Lecture Companion](https://github.com/MUHIYADIN2025/lecture-companion)
+* [Accessibility Auditor](https://github.com/MUHIYADIN2025/accessibility-auditor)
+* [Campus Knowledge Assistant](https://github.com/MUHIYADIN2025/campus-knowledge-assistant)
+* [Build AI Agent Google ADK](https://github.com/MUHIYADIN2025/build-ai-agent-google-adk)
 
 🚀 Areas of Interest
 
